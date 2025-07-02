@@ -23,3 +23,7 @@ You can open `index.html` in your browser to try it out locally.
 ├── style.css        # Styling for calculator layout and buttons
 ├── script.js        # JavaScript logic for button functionality
 
+## 🔗 Live Demo
+
+Check out the live app here: [Calculator Web App](https://gorgeous-kulfi-59b945.netlify.app/)
+
